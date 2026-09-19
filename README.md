@@ -1,59 +1,63 @@
-<h1 align="center">Hi 👋, I'm Ayoub</h1>
+<div align="center">
 
-<h3 align="center">
- Software Developer | DevOps Enthusiast | ML Explorer
-</h3>
+# Ayoub Fanaoui
 
-<p align="center">
-I’m a software developer driven by curiosity and problem-solving.<br>
-I enjoy building scalable, high-performance applications and exploring DevOps & Machine Learning.
-</p>
----
+**Software Engineer · Full-Stack Developer · Data & AI**
 
-##  Tech Stack
+Building reliable software, exploring data, and turning ideas into useful products.
 
-### Languages
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,js,python,c,cpp" />
-</p>
-
-###  Web & Mobile
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,angular,nodejs,express,flutter" />
-</p>
-
-###  DevOps & Tools
-<p align="center">
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,git,linux,grafana" />
-</p>
-
-###  Databases
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
-</p>
-
-### Data & ML
-<p align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow" />
 <br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="40"/>
-</p>
 
----
+<a href="https://github.com/ayoubfanaoui">
+  <img src="https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/Email-18181B?style=flat-square&logo=gmail&logoColor=white" />
+</a>
 
-## GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayoubfanaoui&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayoubfanaoui&theme=radical" width="48%" />
-</p>
+</div>
 
----
+<br>
 
-## Connect with me
-<p align="center">
-  <a href="https://github.com/ayoubfanaoui">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-</p>
+## About
 
+I'm a Software Engineer interested in **backend development, full-stack applications, data engineering, and AI**.
+
+I mainly work with **Java, Spring Boot, Angular, Kafka, and Spark**, while continuously exploring new technologies and better ways to build software.
+
+<br>
+
+## Tech I Work With
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,angular,typescript,python,kafka,spark,docker,kubernetes,postgres&perline=10" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+`Backend` · `Full-Stack` · `Microservices` · `Data Engineering` · `AI` · `Cloud`
+
+</div>
+
+<br>
+
+## GitHub Activity
+
+<div align="center">
+
+<a href="https://github.com/ayoubfanaoui">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayoubfanaoui&show_icons=true&hide_border=true&hide_title=true" width="60%" />
+</a>
+
+<br><br>
+
+<a href="https://github.com/ayoubfanaoui">
+  <img src="https://img.shields.io/badge/View%20my%20GitHub%20activity-18181B?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
