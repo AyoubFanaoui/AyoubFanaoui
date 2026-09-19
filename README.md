@@ -11,10 +11,8 @@ Building reliable software, exploring data, and turning ideas into useful produc
 <a href="https://github.com/ayoubfanaoui">
   <img src="https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github&logoColor=white" />
 </a>
-&nbsp;
-<a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/Email-18181B?style=flat-square&logo=gmail&logoColor=white" />
-</a>
+
+
 
 </div>
 
@@ -50,14 +48,9 @@ I mainly work with **Java, Spring Boot, Angular, Kafka, and Spark**, while conti
 
 <div align="center">
 
-<a href="https://github.com/ayoubfanaoui">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayoubfanaoui&show_icons=true&hide_border=true&hide_title=true" width="60%" />
-</a>
-
-<br><br>
-
-<a href="https://github.com/ayoubfanaoui">
-  <img src="https://img.shields.io/badge/View%20my%20GitHub%20activity-18181B?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayoubfanaoui&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayoubfanaoui&theme=radical" width="48%" />
+</p>
 
 </div>
